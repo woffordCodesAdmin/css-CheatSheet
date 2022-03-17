@@ -1,0 +1,60 @@
+.navContainer{
+    border:solid red;
+    /* border-width:.2px; */
+    justify-content:space-evenly;
+    display:flex;
+    height:auto;
+    padding:1em;
+    
+}
+
+
+.smLogo{
+    height:90px;
+    width:90px;
+    border:solid black;
+    position:fixed;
+    border-radius:50%;
+    margin-left:50%;
+}
+.smLogo:hover{
+    height:90px;
+    margin-left:50%;
+    width:90px;
+    border:solid lime;
+    position:fixed;
+    border-radius:50%;
+}
+.navTab{
+    border:solid white;
+    border-width:.2px;
+    background-color: blue;
+    color:white;
+    margin:1em;
+    padding:6px;
+}
+
+.presentationContainer{
+    border:solid lime;
+    height:42vh;
+    width:100%;
+}       
+.nike{
+    height:60px;
+    width:60px;
+    border-radius:50%;border:solid white;
+}
+
+input{
+    background-color:lemonchiffon;
+    height:40px;
+    border:solid white;
+    border-radius:32px;
+}
+input:hover{
+    background-color:black;
+    color:lime;
+    height:40px;
+    border:solid white;
+    border-radius:32px;
+}
